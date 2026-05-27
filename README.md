@@ -11,18 +11,28 @@ Hospital General Information (hospital attributes + location)
 Hospital Readmissions Reduction Program (HRRP) – FY 2026 (ERR, predicted vs expected, discharges/readmissions)
 Medicare Spending Per Beneficiary (MSPB) (spending score)
 HCAHPS (Patient Experience) (survey fields; included for possible expansion)
-Data Model
+Data Model:
+
 Hub table: Hospital_General_Information
+
 Key: Facility ID
+
 Star-style layout: General Info filters the other datasets.
 
 Key Metrics (KPIs)
 Hospitals: distinct count in the current filter context
+
 Avg ERR: average Excess Readmission Ratio
-Readmission Rate: readmissions ÷ discharges (volume-adjusted)
-Visuals Included
+
+Readmission Rate: readmissions ÷ discharges (volume-adjusted
+
+Visuals Included:
+
 Facility-level table: Facility ID, Facility Name, MSPB Score, Avg ERR
+
+
 Top 10 worst states by Avg ERR: highlights states with the highest Avg ERR (worst performance)
+
 MSPB vs Readmissions scatter (by state): Avg MSPB vs total readmissions with trendline + filters
 
 Interpretation Notes
