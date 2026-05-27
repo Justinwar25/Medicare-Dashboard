@@ -36,15 +36,21 @@ MSPB Score
 
 Note: Total readmissions in the scatter are influenced by state size/volume. For cleaner comparisons, use Readmission Rate or Avg ERR.
 
-How to Use
+How to Use:
 Open the .pbix in Power BI Desktop
+
 Use filters/slicers (ex: State) to explore regions
+
 Hover points/bars for quick outlier comparisons
+
 Future Improvements
 Add a Patient Experience page (HCAHPS response rate + key survey measures)
+
 Add quadrant lines at MSPB = 1.0 and ERR = 1.0
+
 Add a Top 10 best states (lowest Avg ERR) for contrast
-Screenshots
+
+Screenshots:
 
 <img width="2092" height="1167" alt="Medicare powerbi" src="https://github.com/user-attachments/assets/437aae2e-c6ea-49da-9614-9be8f96b0cdc" />
 
