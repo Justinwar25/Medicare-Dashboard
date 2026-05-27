@@ -15,6 +15,7 @@ Data Model
 Hub table: Hospital_General_Information
 Key: Facility ID
 Star-style layout: General Info filters the other datasets.
+
 Key Metrics (KPIs)
 Hospitals: distinct count in the current filter context
 Avg ERR: average Excess Readmission Ratio
