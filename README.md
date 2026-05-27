@@ -42,7 +42,7 @@ Future Improvements
 Add a Patient Experience page (HCAHPS response rate + key survey measures)
 Add quadrant lines at MSPB = 1.0 and ERR = 1.0
 Add a Top 10 best states (lowest Avg ERR) for contrast
-Screenshots::
+Screenshots
 
 <img width="2092" height="1167" alt="Medicare powerbi" src="https://github.com/user-attachments/assets/437aae2e-c6ea-49da-9614-9be8f96b0cdc" />
 
