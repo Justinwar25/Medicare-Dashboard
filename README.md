@@ -23,6 +23,7 @@ Visuals Included
 Facility-level table: Facility ID, Facility Name, MSPB Score, Avg ERR
 Top 10 worst states by Avg ERR: highlights states with the highest Avg ERR (worst performance)
 MSPB vs Readmissions scatter (by state): Avg MSPB vs total readmissions with trendline + filters
+
 Interpretation Notes
 ERR (Excess Readmission Ratio)
 ~1.0 = in line with national expectations
